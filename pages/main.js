@@ -11,7 +11,7 @@ const Main = () => {
                     <img src="road.jpg" alt="" />
                 </div>
                 <div className="text ">
-                    <p>hellooo</p>
+                    <p>helloo</p>
                 </div>
             </div>
         </>
